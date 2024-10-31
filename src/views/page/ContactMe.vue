@@ -1,15 +1,12 @@
 <script setup>
 import {onMounted, ref} from "vue";
+import localData from '../../../public/data.json'
 
 const ContactMe = ref({});
 
-import {getH5StaticJson} from "@/api/getJSON.js";
-onMounted(() => {
-  getH5StaticJson({}).then(json  => {
-    ContactMe.value =json["data"]['ContactMe']
 
-  });
-})
+ContactMe.value =localData['ContactMe']
+
 </script>
 <template>
   <section class="main-box sectionList">

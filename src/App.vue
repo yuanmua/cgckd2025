@@ -1,18 +1,15 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
-import {onMounted, ref} from "vue";
+import localData from '../public/data.json'
+import {ref} from "vue";
+
+
 const local = ref({});
 const BackgroundHeader = ref({});
 
-import {getH5StaticJson} from "@/api/getJSON.js";
-onMounted(() => {
-  getH5StaticJson({}).then(json  => {
-    local.value =json["data"]['local']
-    BackgroundHeader.value=json["data"]['BackgroundHeader']
-
-  });
-})
+local.value =localData['local']
+BackgroundHeader.value=localData['BackgroundHeader']
 
 </script>
 

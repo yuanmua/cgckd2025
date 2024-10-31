@@ -57,16 +57,12 @@
 
 <script setup>
 import {onMounted, ref} from "vue";
+import localData from '../../../public/data.json'
 
 const report = ref({});
 
-import {getH5StaticJson} from "@/api/getJSON.js";
-onMounted(() => {
-  getH5StaticJson({}).then(json  => {
-    report.value =json["data"]['report']
+report.value =localData['report']
 
-  });
-})
 </script>
 
 <style scoped>

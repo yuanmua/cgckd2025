@@ -9,7 +9,7 @@
     <div class="col1 col">
       <div class="format">
         <h3>
-          <img src="../../../public/images/image/theme.png" style="height: 20px; margin-bottom: -2px">
+<!--          <img src="../../../public/images/image/theme.png" style="height: 20px; margin-bottom: -2px">-->
           &nbsp;联合会议主题
         </h3>
 

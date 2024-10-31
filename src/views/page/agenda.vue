@@ -1,15 +1,10 @@
 <script setup>
 import {onMounted, ref} from "vue";
+import localData from '../../../public/data.json'
 
 const agenda = ref({});
+agenda.value =localData['agenda']
 
-import {getH5StaticJson} from "@/api/getJSON.js";
-onMounted(() => {
-  getH5StaticJson({}).then(json  => {
-    agenda.value =json["data"]['agenda']
-
-  });
-})
 </script>
 <template>
   <section class="main-box sectionList">

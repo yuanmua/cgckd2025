@@ -2,16 +2,10 @@
 <script setup>
 
 import {onMounted, ref} from "vue";
+import localData from '../../../public/data.json'
 
 const sections = ref({});
-
-import {getH5StaticJson} from "@/api/getJSON.js";
-onMounted(() => {
-  getH5StaticJson({}).then(json  => {
-    sections.value =json["data"]['PagerContributions']
-
-  });
-})
+sections.value =localData['PagerContributions']
 
 
 </script>

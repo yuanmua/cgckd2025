@@ -1,16 +1,13 @@
 <script setup>
 
 import {onMounted, ref} from "vue";
+import localData from '../../../public/data.json'
 
 const organization = ref({});
 
-import {getH5StaticJson} from "@/api/getJSON.js";
-onMounted(() => {
-  getH5StaticJson({}).then(json  => {
-    organization.value =json["data"]['organization']
 
-  });
-})
+
+organization.value =localData['organization']
 
 
 function require(s) {

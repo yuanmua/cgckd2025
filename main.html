@@ -1,0 +1,197 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>通用模板</title>
+    <script type="text/javascript" src="extends/extends.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+
+<!----------------------后面加的--------------------------->
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+        <meta name="viewport"
+              content="width=device-width,initial-scale=1,minimum-scale=1.0, maximum-scale=1.0 ,user-scalable=yes"/>
+        <meta name="apple-touch-fullscreen" content="yes"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="x5-fullscreen" content="true">
+        <meta name="full-screen" content="yes">
+        <meta name="keywords" content="CGCKD2025,cgckd2025,粗糙集与粒计算，粒计算与知识发现">
+        <meta name="description" content=""/>
+        <meta http-equiv="pragma" content="no-cache">
+        <meta http-equiv="cache-control" content="no-cache">
+        <meta http-equiv="expires" content="0">
+        <meta http-equiv="X-UA-Compatible" content="edge"/>
+        <meta content="320" name="MobileOptimized">
+        <title>CGCKD 2025</title>
+        <link rel="icon" href="./extends/favicon-B3emwjrC.ico" />
+        <script type="module" crossorigin src="./extends/index-BrlWqzxD.js"></script>
+        <link rel="stylesheet" crossorigin href="./extends/index-DijJ1OVr.css">
+        <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+        <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+
+</head>
+<body class="main">
+<div id="app"></div>
+<script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+<script nomodule crossorigin id="vite-legacy-polyfill" src="./extends/polyfills-legacy-BN4GN8QA.js"></script>
+<script nomodule crossorigin id="vite-legacy-entry" data-src="./extends/index-legacy-DCUOnIoS.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+
+<!--Start||head-->
+<!--<div class="wrapper header" id="header">-->
+<!--    <div class="inner">-->
+<!--        &lt;!&ndash;头部信息&ndash;&gt;-->
+<!--        <div class="head" >-->
+<!--            &lt;!&ndash;logo开始&ndash;&gt;-->
+<!--            <div class="sitelogo" frag="面板01">-->
+<!--                <div class="sitelogocon" frag="窗口01" portletmode="simpleSiteAttri">-->
+<!--                    <span frag="窗口内容"><a href="{站点URL}" title="返回{站点名称}首页">{站点Logo}</a></span>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            &lt;!&ndash;站点名称&ndash;&gt;-->
+<!--            <div class="sitetitle" frag="面板02">-->
+<!--                <div class="sitetitlecon" frag="窗口02" portletmode="simpleSiteName">-->
+<!--                    <span frag="窗口内容">站点名称</span>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+<!--&lt;!&ndash;End||head&ndash;&gt;-->
+
+<!--&lt;!&ndash;Start||nav&ndash;&gt;-->
+<!--<div class="wrapper nav" id="nav">-->
+<!--    <div class="inner">-->
+<!--        &lt;!&ndash;导航&ndash;&gt;-->
+<!--        <div class="navbar" frag="面板1">-->
+<!--            <div class="navbox" frag="窗口1">-->
+<!--                <div frag="窗口内容">窗口内容</div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+<!--&lt;!&ndash;End||nav&ndash;&gt;-->
+
+<!--&lt;!&ndash;Start||content&ndash;&gt;-->
+<!--<div class="wrapper content" id="container">-->
+<!--    <div class="inner clearfix">-->
+<!--        <div class="mod clearfix">-->
+<!--            <div class="ml" frag="面板10">-->
+<!--                <div class="post post1 post-10 mbox" frag="窗口10">-->
+<!--                    <div class="tt">-->
+<!--                        <h3 class="tit"><span class="title" frag="标题"><span frag="标题内容">标题10</span></span></h3>-->
+<!--                        <div class="more_btn" frag="按钮" type="更多"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></div>-->
+<!--                    </div>-->
+<!--                    <div class="con">-->
+<!--                        <div frag="窗口内容">-->
+<!--                            <ul class="news_list">-->
+<!--                                &lt;!&ndash;[InfoCycleBegin]&ndash;&gt;-->
+<!--                                <li class="news clearfix n{序号值}">-->
+<!--								<span class="news_title">-->
+<!--								&lt;!&ndash;[FieldCycleBegin]&ndash;&gt;-->
+<!--								{标题}-->
+<!--                                    &lt;!&ndash;[FieldCycleEnd]&ndash;&gt;-->
+<!--								</span>-->
+<!--                                    <span class="news_meta">{发布时间}</span>-->
+<!--                                </li>-->
+<!--                                &lt;!&ndash;[InfoCycleEnd]&ndash;&gt;-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+
+<!--                <div class="post post1 post-11 mbox" frag="窗口11">-->
+<!--                    <div class="tt">-->
+<!--                        <h3 class="tit"><span class="title" frag="标题"><span frag="标题内容">标题11</span></span></h3>-->
+<!--                        <div class="more_btn" frag="按钮" type="更多"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></div>-->
+<!--                    </div>-->
+<!--                    <div class="con">-->
+<!--                        <div frag="窗口内容">-->
+<!--                            <ul class="news_list">-->
+<!--                                &lt;!&ndash;[InfoCycleBegin]&ndash;&gt;-->
+<!--                                <li class="news clearfix n{序号值}">-->
+<!--								<span class="news_title">-->
+<!--								&lt;!&ndash;[FieldCycleBegin]&ndash;&gt;-->
+<!--								{标题}-->
+<!--                                    &lt;!&ndash;[FieldCycleEnd]&ndash;&gt;-->
+<!--								</span>-->
+<!--                                    <span class="news_meta">{发布时间}</span>-->
+<!--                                </li>-->
+<!--                                &lt;!&ndash;[InfoCycleEnd]&ndash;&gt;-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+
+<!--            </div>-->
+
+<!--            <div class="mc" frag="面板20">-->
+<!--                <div class="post post-21 mbox" frag="窗口21">-->
+<!--                    <div class="tt">-->
+<!--                        <h3 class="tit"><span class="title" frag="标题"><span frag="标题内容">标题21</span></span></h3>-->
+<!--                        <div class="more_btn" frag="按钮" type="更多"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></div>-->
+<!--                    </div>-->
+<!--                    <div class="con">-->
+<!--                        <div frag="窗口内容">-->
+<!--                            <ul class="news_list">-->
+<!--                                &lt;!&ndash;[InfoCycleBegin]&ndash;&gt;-->
+<!--                                <li class="news clearfix n{序号值}">-->
+<!--								<span class="news_title">-->
+<!--								&lt;!&ndash;[FieldCycleBegin]&ndash;&gt;-->
+<!--								{标题}-->
+<!--                                    &lt;!&ndash;[FieldCycleEnd]&ndash;&gt;-->
+<!--								</span>-->
+<!--                                    <span class="news_meta">{发布时间}</span>-->
+<!--                                </li>-->
+<!--                                &lt;!&ndash;[InfoCycleEnd]&ndash;&gt;-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="mr" frag="面板30">-->
+<!--                <div class="post post-31 mbox" frag="窗口31">-->
+<!--                    <div class="tt">-->
+<!--                        <h3 class="tit"><span class="title" frag="标题"><span frag="标题内容">标题31</span></span></h3>-->
+<!--                        <div class="more_btn" frag="按钮" type="更多"><span class="more_text" frag="按钮内容">更多&gt;&gt;</span></div>-->
+<!--                    </div>-->
+<!--                    <div class="con">-->
+<!--                        <div frag="窗口内容">-->
+<!--                            <ul class="news_list">-->
+<!--                                &lt;!&ndash;[InfoCycleBegin]&ndash;&gt;-->
+<!--                                <li class="news clearfix n{序号值}">-->
+<!--								<span class="news_title">-->
+<!--								&lt;!&ndash;[FieldCycleBegin]&ndash;&gt;-->
+<!--								{标题}-->
+<!--                                    &lt;!&ndash;[FieldCycleEnd]&ndash;&gt;-->
+<!--								</span>-->
+<!--                                    <span class="news_meta">{发布时间}</span>-->
+<!--                                </li>-->
+<!--                                &lt;!&ndash;[InfoCycleEnd]&ndash;&gt;-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+<!--&lt;!&ndash;End||content&ndash;&gt;-->
+
+<!--&lt;!&ndash;Start||footer&ndash;&gt;-->
+<!--<div class="wrapper footer" id="footer">-->
+<!--    <div class="inner">-->
+<!--        <div class="foot" frag="面板90">-->
+<!--            <div frag="窗口90" portletmode="simpleSiteAttri">-->
+<!--                <div frag="窗口内容">{站点版权}</div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+<!--End||footer-->
+</body>
+</html>

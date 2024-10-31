@@ -12,6 +12,9 @@ export default defineConfig({
     }),
     vue(),
   ],
+  build: {
+    assetsDir:'extends' // 修改自定义静态资源目录
+},
   base:'./',
   resolve: {
     alias: {

@@ -1,24 +1,15 @@
 <script setup>
 import {computed, onMounted, onUnmounted, ref} from "vue";
 import localData from '../../../public/data.json'
-import {getH5StaticJson} from "@/api/getJSON.js";
 
 
 const sections = ref({});
-// sections.value = data['Home'];
+sections.value = localData['Home'];
 
 const local = ref({});
 
-// const targetDate = ref({});
-
-/*
 const targetDate =  new Date(localData["time"]);
-*/
 
-let targetDate =  new Date("2025-01-01T00:00:00");
-
-
-// const targetDate =  new Date(data["time"]);
 const days = ref(0);
 const hours = ref(0);
 const minutes = ref(0);
@@ -49,25 +40,9 @@ const secondsDigits = computed(() => String(seconds.value).padStart(2, '0').spli
 
 let intervalId;
 
-// onMounted(() => {
-//   updateCountdown();
-//   intervalId = setInterval(updateCountdown, 1000);
-// });
-
 onMounted(() => {
-    getH5StaticJson({}).then(json => {
-        local.value = json["data"]['local'];
-        // 合并数据
-        sections.value = json["data"]['Home']
-        console.log(sections.value)
-
-
-        targetDate = new Date(json["data"]["time"]);
-
-
-        updateCountdown();
-        intervalId = setInterval(updateCountdown, 1000);
-    });
+  updateCountdown();
+  intervalId = setInterval(updateCountdown, 1000);
 });
 
 onUnmounted(() => {

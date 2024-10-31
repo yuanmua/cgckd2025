@@ -1,23 +1,23 @@
 <script setup>
-import {onMounted, ref} from "vue";
-
-const agenda = ref({});
-
-const props = defineProps({
-  id: String
-})
-
-import {getH5StaticJson} from "@/api/getJSON.js";
-onMounted(() => {
-  getH5StaticJson({}).then(json  => {
-    console.log(props.id)
-    console.log(json)
-
-    agenda.value =json["data"][props.id]
-    console.log(agenda.value)
-
-  });
-})
+// import {onMounted, ref} from "vue";
+//
+// const agenda = ref({});
+//
+// const props = defineProps({
+//   id: String
+// })
+//
+// import {getH5StaticJson} from "@/api/getJSON.js";
+// onMounted(() => {
+//   getH5StaticJson({}).then(json  => {
+//     console.log(props.id)
+//     console.log(json)
+//
+//     agenda.value =json["data"][props.id]
+//     console.log(agenda.value)
+//
+//   });
+// })
 
 </script>
 <template>
