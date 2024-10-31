@@ -1,0 +1,1105 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    margin:0;
+    padding:0;
+    font-family:Arial,"微软雅黑", Helvetica, sans-serif;
+}
+
+/*对整体进行设置*/
+body{
+    /*设置底部背景图*/
+    background:rgba(119,184,254,1.00) url(../images/image/1.jpg) bottom center;
+    background-attachment:fixed;
+    width:100%;
+}
+
+
+
+/*对顶部区域进行设置*/
+header{
+    height:350px;
+    background-repeat:no-repeat;
+    color:#fff;
+    /*background-position:center;*/
+    background-size:cover;
+    background-position: bottom -40px right 50%
+}
+
+header .t1{
+    font-weight:bold;
+    font-size:38px;
+    line-height:140px;
+    margin-left:120px;
+}
+header .t2{
+    font-weight:bold;
+    font-size:44px;
+    line-height:55px;
+    margin-left:80px;
+    text-shadow:5px 5px #999;}
+header .t3{
+    font-weight:bold;
+    font-size:30px;
+    line-height:100px;
+    margin-left:120px;
+    text-shadow:3px 3px #999;}
+header h1 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    text-shadow: 3px 3px #000;
+}
+header h2 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    text-shadow: 3px 3px #000;
+}
+
+.chengdu{text-align: right;
+    font-size: 18px
+}
+header p {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 1px;
+}
+#about .fa{
+    color: #3ab7cb;
+}
+
+.order{
+    background-color:#299072;
+    width:45px;
+    height:160px;
+    position:fixed;
+    display:block;
+    right:0;
+    z-index:999999;}
+.order p{
+    font-size:22px;
+    color:#fff;
+    font-weight:bold;
+    text-align:center;
+    line-height:40px;
+    text-decoration:none;}
+
+/*导航栏设置*/
+.nav{
+    height:70px;
+    background-color:#fff;
+    margin:0 auto;
+}
+
+nav{text-align:center;}
+
+/*导航栏各项设置*/
+nav a{
+    font-size: 18px;
+    font-weight: bold;
+    margin:30px 25px;
+    padding:10px 0;
+    text-decoration:none;
+    color:#09C;
+    line-height:70px;
+}
+/*导航栏翻转时候的状态*/
+nav a:hover{
+    border-bottom:3px #09C solid;
+
+}
+
+
+
+
+/*栏目区*/
+section{
+    margin: 70px 10% 70px 10%;
+    /*margin:70px auto;*/
+    position:relative;
+}
+
+/*!*左边栏目样式*!*/
+/*.col1,.col3{*/
+/*width:588px;*/
+/*height:720px;*/
+/*float:left;*/
+/*!*display:inline;*!*/
+/*background-color:#FFF;*/
+/*margin-bottom:10px;}*/
+/**/
+/*!*右边栏目样式*!*/
+/*.col2,.col4{*/
+/*width:588px;*/
+/*height:720px;*/
+/*background-color:#FFF;*/
+/*margin-left:596px;*/
+/*margin-bottom:10px;}*/
+
+/*跟新首页栏目样式跟子页一样*/
+.col1{
+    width:100%;
+    background-color:#FFF;
+    margin-bottom:15px;}
+.col2{
+    width:100%;
+    height:300px;
+    background-color:#FFF;
+    margin-bottom:15px;}
+.col3{
+    width:100%;
+    background-color:#FFF;
+    margin-bottom:15px;}
+.col4{
+    width:100%;
+    height:800px;
+    background-color:#FFF;
+    margin-bottom:15px;
+}
+
+
+/*栏目标题设置*/
+.col h3{
+    line-height:60px;
+    font-size: 22px;
+    padding-left:30px;
+    color:#1f62a7;
+    background:#e7f5fb;
+    transition: all 0.3s;
+    background:#e7f5fb  no-repeat right center ;
+    background-size:6%;
+    background-position: 95% center;
+    font-weight:normal;}
+.col:hover h3 {
+    padding-left: 60px;
+}
+
+
+
+
+
+
+/*最新消息*/
+#icmsa {
+    height: 300px;
+    overflow:hidden;
+    margin:20px;
+    font-size:14px;
+    color:#333;
+    margin-top:30px;
+}
+.new_c{ margin:40px 30px;}
+.new_c td{
+    line-height: 40px;
+    font-family: Verdana;
+}
+.new_c td a{
+    color:#09c;
+    text-decoration: none;}
+.new_c td a:hover{
+    text-decoration: underline;
+}
+.new_c td a img{
+    width:24px;
+    line-height: 40px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.new_c tr .x{
+    line-height: 30px;
+}
+
+/*--学术交流会组织机构*/
+.organization table{
+    margin:40px auto;}
+.organization table tr{
+    margin-top:15px;}
+.organization table tr td{
+    font-size:14px;
+    line-height:50px;}
+.organization table tr td b{
+    line-height:40px;
+    font-size:16px;}
+.organization table tr td img{
+    margin:0 15px;
+    width:210px;}
+
+
+
+
+/*底部区域*/
+footer{
+    height:93px;
+    background-image:url(../images/image/footer.jpg);
+    margin-top:100px;
+}
+footer div{	text-align:center;}
+footer div span{
+    text-align:center;
+    line-height:93px;
+    color:#CCC;
+    font-size:14px;
+    letter-spacing:1px;}
+.copyright{
+    font-size:12px;}
+
+
+
+/*演示编写**********************************************************/
+html,body,.content,header{ width: 100%}
+.main-box .col h3 .icon{ justify-content: center;background-position: center; background-size: 100%;  float: right;}
+.main-box .col h3 .icon-qa{background-image:url(../images/image/icon.png)}
+
+/*从PC适配至pad、手机端*/
+@media(max-width:1279px){
+
+}
+
+@media(max-width:1059px) {
+    body {
+        background-color: #ccc;
+    }
+
+    header {
+        height:450px;
+
+    }
+    table{margin-left:80px;}
+
+    header .t1 {
+        font-size: 30px;
+        line-height: 170px;
+        margin-left: 80px;
+    }
+
+    header .t2 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-left: 50px;
+        margin-top: -40px
+    }
+
+    header .t3 {
+        font-size: 20px;
+        line-height: 95px;
+        margin-left: 80px;
+    }
+
+
+    header h1 {
+        color: #fff;
+        font-size: 45px;
+        font-weight: 400;
+        text-align: center;
+        letter-spacing: 2px;
+        padding-bottom: 10px;
+        text-shadow: 3px 3px #000;
+    }
+    header h2 {
+        color: #fff;
+        font-size: 20px;
+        font-weight: 400;
+        text-align: center;
+        letter-spacing: 2px;
+        padding-bottom: 10px;
+        text-shadow: 3px 3px #000;
+    }
+
+    .chengdu{text-align: center;
+        font-size: 16px
+    }
+    header p {
+        color: #fff;
+        font-size: 22px;
+        font-weight: 300;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+
+
+    .content .nav a {
+        font-size: 0.75rem;
+        margin: 0.3125rem;
+        padding: 0.3125rem;
+    }
+
+    .main-box {
+
+        width: 100%;
+        /*修改*/
+
+    }
+
+    .main-box-2 {
+        /*width: 60rem;*/
+        width: 47.8125rem;
+        margin: 0 auto;
+        /*修改*/
+
+    }
+
+    /*.main-box .col {*/
+    /*    width: 23.75rem;*/
+    /*}*/
+
+    .col {
+        background-color: #fff;
+    }
+
+    .col2{
+        /*margin-left: 24.0625rem;*/
+        /*margin-left: 40rem;*/
+
+        /*修改*/
+    }
+    .col4{
+        margin-left: 40rem;
+    }
+
+    .col1, .col3 {
+        background-color: #fff;
+    }
+
+    .main-box .col h3 {
+        font-size: 1.4rem;
+    }
+
+    .article, .news {
+        margin: 1rem 1.25rem
+    }
+
+    .article p, .new_c td {
+        font-size: 0.8rem;
+        line-height: 2.3;
+    }
+
+    table {
+        margin: 10px;
+    }
+
+    section{
+        width:1190px;
+        margin:0 auto;
+        position:relative;
+    }
+
+
+    footer{
+        height:93px;
+        background-image:url(../images/image/footer.jpg);
+        margin-top:0;
+    }
+    footer div{	text-align:center;}
+    footer div span{
+        text-align:center;
+        line-height:93px;
+        color:#CCC;
+        font-size:14px;
+        letter-spacing:1px;}
+    .copyright{
+        font-size:12px;}
+
+    /*右边栏目样式*/
+    .col2,.col4 {
+        /*修改*/
+        margin-bottom: 0;
+
+        /*margin-bottom:auto;}*/
+    }
+
+    /*ipad*/
+    @media (max-width: 767px) {
+        body {
+            background-color: #ccc;
+        }
+
+        body {
+            background-image: none;
+        }
+
+        header {
+            height:440px;
+        }
+
+        header .t1 {
+            font-size: 28px;
+            line-height: 150px;
+            margin-left: 70px;
+        }
+
+        header .t2 {
+            font-size: 30px;
+            line-height: 40px;
+            margin-left: 45px;
+            margin-top: -30px
+        }
+
+        header .t3 {
+            font-size: 18px;
+            line-height: 80px;
+            margin-left: 70px;
+        }
+
+        header h1 {
+            color: #fff;
+            font-size: 16px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 2px;
+            padding-bottom: 10px;
+            text-shadow: 3px 3px #000;
+        }
+        .chengdu{text-align: center;
+            font-size: 16px
+        }
+
+        header p {
+            color: #fff;
+            font-size: 22px;
+            font-weight: 300;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        .content .nav a {
+            font-size: 0.75rem;
+            margin: 0.84rem;
+        }
+
+        .main-box, .main-box-2 {
+            width: 100%;
+        }
+
+        .main-box .col {
+            width: 100%;
+            float: none;
+            margin-left: 0;
+        }
+
+        .col2{
+            /*修改*/
+            /*height: 40rem;*/
+
+            height: 23.75rem;
+        }
+        .col4{
+            height: 40rem;
+        }
+
+        .main-box .col h3 {
+            background-image: none;
+            font-size: 1.4rem;
+            line-height: 2;
+        }
+
+        .article, .news {
+            margin: 1rem 1.25rem
+        }
+
+        .article p {
+            font-size: 0.8rem;
+            line-height: 1.8;
+        }
+        section{
+            width:70%;
+            margin:0 auto;
+            position:relative;
+        }
+
+        footer{
+            height:93px;
+            background-image:url(../images/image/footer.jpg);
+            margin-top:0;
+        }
+        footer div{	text-align:center;}
+        footer div span{
+            text-align:center;
+            line-height:93px;
+            color:#CCC;
+            font-size:14px;
+            letter-spacing:1px;}
+        .copyright{
+            font-size:12px;}
+        /*右边栏目样式*/
+        .col2,.col4{
+            /*修改*/
+            margin-bottom:0;
+            /*margin-bottom:auto;*/
+        }
+    }
+
+    /*手机端*/
+    @media only screen and (max-width: 714px) {
+        body {
+            background-color: #e7f5fb;
+        }
+        body {
+            background-image: none;
+            /*修改*/
+        }
+        header {
+            height: 240px;
+            background-repeat:no-repeat;
+            background-size:100% 80%;
+            background-color: #e7f5fb;
+        }
+        /*添加*/
+        .col2 {
+            /*修改*/
+            /*height: 35rem;*/
+
+            height: 23.75rem;
+        }
+        .col4{
+            height: 50rem;
+        }
+        table{
+            margin:30px;
+            margin-left:120px;
+            border-collapse:separate;
+            line-height:30px;
+            font-size:13px;}
+
+        header .t1 {
+            font-size: 24px;
+            line-height: 140px;
+            margin-left: 60px;
+        }
+
+        header .t2 {
+            font-size: 26px;
+            line-height: 40px;
+            margin-left: 35px;
+            margin-top: -30px
+        }
+
+        header .t3 {
+            font-size: 16px;
+            line-height: 70px;
+            margin-left: 60px;
+        }
+        header h1 {
+            color: #fff;
+            font-size: 16px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 2px;
+            padding-bottom: 10px;
+            text-shadow: 3px 3px #000;
+        }
+
+        .chengdu{text-align: center;
+            font-size: 16px
+        }
+        header p {
+            color: #fff;
+            font-size: 22px;
+            font-weight: 300;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        .content .nav a {
+            font-size: 0.75rem;
+            /*修改*/
+            margin: 0.0625rem;
+            /*margin: 0.01rem*/
+        }
+
+        .main-box,.main-box-2{width:100%;}
+        .main-box .col{width: 100%; float: none; margin-left: 0;}
+        .main-box .col h3 {
+            background-image: none;
+            font-size: 1.4rem;
+            line-height: 2;
+        }
+        section{
+            width:70%;
+            margin:0 auto;
+            position:relative;
+        }
+        footer{
+            height:93px;
+            background-image:url(../images/image/footer.jpg);
+            margin-top:0;
+        }
+        footer div{	text-align:center;}
+        footer div span{
+            text-align:center;
+            line-height:93px;
+            color:#CCC;
+            font-size:14px;
+            letter-spacing:1px;}
+        .copyright{
+            font-size:12px;}
+        /*右边栏目样式*/
+        .col2{
+            /*修改*/
+            margin-bottom:0;
+            /*margin-bottom:auto;*/
+        }
+    }
+
+    @media only screen and (min-width: 592px) and (max-width: 639px) {
+        body {
+
+            background-color: #e7f5fb;
+        }
+
+        body {
+            background-image: none;
+        }
+
+        header {
+            height:240px;
+            background-repeat:no-repeat;
+            background-size:100% 80%;
+            background-color: #e7f5fb;
+        }
+        table{
+            margin:30px;
+            margin-left:120px;
+            border-collapse:separate;
+            line-height:30px;
+            font-size:13px;}
+
+        header .t1 {
+            font-size: 22px;
+            line-height: 140px;
+            margin-left: 60px;
+        }
+
+        header .t2 {
+            font-size: 24px;
+            line-height: 40px;
+            margin-left: 35px;
+            margin-top: -30px
+        }
+
+        header .t3 {
+            font-size: 16px;
+            line-height: 70px;
+            margin-left: 60px;
+        }
+
+        header h1 {
+            color: #fff;
+            font-size: 16px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 2px;
+            padding-bottom: 10px;
+            text-shadow: 3px 3px #000;
+        }
+
+        .chengdu{text-align: center;
+            font-size: 16px
+        }
+        header p {
+            color: #fff;
+            font-size: 22px;
+            font-weight: 300;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+
+        .content .nav {
+            height: 7.5rem;
+        }
+
+        .content .nav a {
+            padding: 0;
+            margin: 0 1.375rem;
+            line-height: 3.25rem;
+        }
+
+        .main-box .col {
+            width: 100%;
+            float: none;
+        }
+
+        .article, .news {
+            margin: 1rem 1.25rem
+        }
+
+        .article p, .new_c td {
+            /*修改*/
+            font-size: 0.8rem;
+            line-height: 1.7;
+        }
+        section{
+            width:70%;
+            margin:0 auto;
+            position:relative;
+        }
+
+        footer{
+            height:93px;
+            background-image:url(../images/image/footer.jpg);
+            margin-top:0;
+        }
+        footer div{	text-align:center;}
+        footer div span{
+            text-align:center;
+            line-height:93px;
+            color:#CCC;
+            font-size:14px;
+            letter-spacing:1px;}
+        /*添加*/
+        .col2{
+            /*修改*/
+            height: 35rem;
+
+            /*height: 23.75rem;*/
+        }
+        .col4{
+            height: 60rem;
+        }
+        .copyright{
+            font-size:12px;}
+        /*右边栏目样式*/
+        .col2,.col4{
+            margin-bottom:0;}
+    }
+
+    /*智能手机端*/
+    @media only screen and (min-width: 375px) and (max-width: 591px) {
+        body {
+            background-image: none;
+            background-color: #e7f5fb;
+        }
+
+        header {
+            height: 210px;
+            background-repeat:no-repeat;
+            background-size:100% 80%;
+            background-color: #e7f5fb;
+        }
+        table{ margin:10px auto;border-collapse:collapse;line-height:28px;font-size:13px;}
+
+        header .t1 {
+            font-size: 16px;
+            line-height: 120px;
+            margin-left: 40px;
+            text-shadow: 3px 3px #999;
+        }
+
+        header .t2 {
+            font-size: 17px;
+            line-height: 30px;
+            margin-left: 25px;
+            margin-top: -30px;
+            text-shadow: 4px 4px #999;
+        }
+
+        header .t3 {
+            font-size: 14px;
+            line-height: 60px;
+            margin-left: 40px;
+            text-shadow: 2px 2px #999;
+        }
+
+        header h1 {
+            color: #fff;
+            font-size: 21px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 2px;
+            padding-bottom: 10px;
+            text-shadow: 3px 3px #000;
+        }
+        header h2 {
+            color: #fff;
+            font-size: 10px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 6px;
+            padding-bottom: 10px;
+            text-shadow: 3px 3px #000;
+        }
+        .chengdu{text-align: center;
+            font-size: 16px
+        }
+        h3{
+            background:#e7f5fb url(../images/image/icon.png) no-repeat
+        }
+
+        header p {
+            color: #fff;
+            font-size: 22px;
+            font-weight: 300;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+
+        .content .nav {
+            height: 3rem;
+        }
+
+        .content .nav a {
+            padding: 0;
+            margin: 0 0.1rem;
+            line-height: 1.5rem;
+        }
+
+        .main-box .col {
+            width: 100%;
+            float: none;
+        }
+        section{
+            width:70%;
+            margin:0 auto;
+            position:relative;
+        }
+        /*添加*/
+        .col2{
+            /*修改*/
+            height: 20rem;
+
+            /*height: 23.75rem;*/
+        }
+        .col4{
+            height: 62rem;
+        }
+
+
+        .article, .news {
+            margin: 1rem 1.25rem
+        }
+
+        .article p, .new_c td {
+            font-size: 0.8rem;
+            /*修改*/
+            line-height: 1.7;
+        }
+
+        .organization table tr td img {
+            width: 10rem;
+        }
+
+        .order {
+            top:275px;
+            width: 2.5rem;
+            height: 9.25rem;
+        }
+
+        .order p {
+            font-size: 1.25rem;
+            line-height: 2.3125rem;
+        }
+
+        footer{
+            height:73px;
+            background-image:url(../images/image/footer.jpg);
+            margin-top:0;
+        }
+        footer div{	text-align:center;}
+        footer div span{
+            text-align:center;
+            line-height:73px;
+            color:#CCC;
+            font-size:10px;
+            letter-spacing:1px;}
+        .copyright{
+            font-size:10px;}
+        /*右边栏目样式*/
+        .col2,.col4{
+            margin-bottom:0;}
+
+    }
+
+    @media only screen and (max-width: 374px) {
+        /*rem*/
+        body {
+            /*修改*/
+            background-color: #e7f5fb;
+        }
+
+        section {
+        }
+
+        header {
+            height: 10.625rem;
+            background-repeat:no-repeat;
+            background-size:100% 80%;
+            background-color: #e7f5fb;
+        }
+        table{ margin:10px auto;border-collapse:collapse;line-height:28px;font-size:13px;}
+
+        header .t1 {
+            font-size: 9px;
+            line-height: 100px;
+            margin-left: 10px;
+            text-shadow: 2px 2px #999;
+        }
+
+        header .t2 {
+            font-size: 14px;
+            line-height: 30px;
+            margin-left: 5px;
+            margin-top: -30px;
+            text-shadow: 3px 3px #999;
+        }
+
+        header .t3 {
+            font-size: 12px;
+            line-height: 50px;
+            margin-left: 10px;
+            text-shadow: 1px 1px #999;
+        }
+
+        header h1 {
+            color: #fff;
+            font-size: 21px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 2px;
+            padding-bottom: 10px;
+            text-shadow: 3px 3px #000;
+        }
+        header h2{
+            color: #fff;
+            font-size: 5px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 5px;
+            padding-bottom: 10px;
+            text-shadow: 3px 3px #000;
+        }
+
+        .chengdu{text-align: center;
+            font-size: 13px
+        }
+        header p {
+            color: #fff;
+            font-size: 22px;
+            font-weight: 300;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+
+        .order {
+            width: 2.25rem;
+            height: 7.75rem;
+        }
+
+        .order p {
+            font-size: 1rem;
+            line-height: 1.9375rem;
+        }
+
+        .content .nav {
+            height: 5rem;
+        }
+
+        .content .nav a {
+            padding: 0;
+            margin: 0 0.4rem;
+            line-height: 2rem;
+        }
+
+        .main-box {
+            margin-top: 0px;
+        }
+
+        .main-box .col {
+            width: 100%;
+            float: none;
+        }
+
+        .main-box .col h3 {
+            font-size: 1rem;
+            line-height: 2;
+        }
+
+        .article, .news {
+            margin: 1rem 1.25rem
+        }
+
+        .article p, .new_c td {
+            font-size: 0.75rem;
+            line-height: 1.5625rem;
+        }
+        section{
+            width:70%;
+            margin:0 auto;
+            position:relative;
+        }
+
+
+        nav {
+            text-align: center;
+            /* vertical-align: middle; */
+            /* line-height: 24px; */
+            padding-top: 4px;
+        }
+        h5 {
+            font-size: 0.875rem;
+            line-height: 1.5625rem;
+            margin-bottom: -0.625rem;
+        }
+
+        .organization table tr td img {
+            width: 6.25rem;
+        }
+
+        .col4 {
+            height: 72rem;
+            /*height: 40rem;*/
+        }
+
+        .col2 {
+            height: 26.25rem;
+            /*height: 35rem;*/
+        }
+
+        .news {
+            margin: 0 auto;
+            font-size: 0.75rem;
+        }
+
+        footer{
+            height:93px;
+            background-image:url(../images/image/footer.jpg);
+            margin-top:0;
+        }
+        footer div{	text-align:center;}
+        footer div span{
+            text-align:center;
+            line-height:93px;
+            color:#CCC;
+            font-size:14px;
+            letter-spacing:1px;}
+        .copyright{
+            font-size:12px;}
+        /*右边栏目样式*/
+        .col2,.col4{
+            margin-bottom:0;}
+    }
+
+}
+
+
+
+
+
+
+
+
+.sectionList
+{
+    flex-direction: column;
+
+}

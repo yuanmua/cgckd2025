@@ -1,0 +1,263 @@
+.f-flex-c-sb {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.u-countdown-box .u-countdown-txt {
+    margin: 10px 45px 0 8px;
+    text-align: center;
+}
+.u-countdown-txt .u-tt, .u-countdown-txt .u-date {
+    font-size: 26px;
+    line-height: 42px;
+    color: rgba(28, 28, 28, 1);
+}
+.u-countdown-time-box {
+    display: flex;
+    font-size: 63px;
+    color: rgb(67, 67, 67);
+}
+ .u-countdown-time-box .u-days-box {
+    margin-right: 44px;
+    color: #fff;
+}
+ .u-countdown-time-box .u-bg {
+    display: flex;
+    text-align: center;
+}
+ .u-countdown-time-box .u-days-box .u-bg>span {
+    background-image: url(../../public/images/20240708-10.png);
+}
+ .u-countdown-time-box .u-bg>span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 97px;
+    background: url(../../public/images/20240708-09.png) no-repeat 0 0 / 100% 100%;
+    font-family: 'countdown';
+}
+.u-countdown-time-box .u-split-box {
+    width: 32px;
+    height: 75%;
+    background: url(../../public/images/20240708-12.png) no-repeat center center;
+}
+
+ .u-countdown-time-box .u-bg>span+span {
+    margin-left: 10px;
+}
+
+ .u-countdown-time-box .u-unit {
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+}
+ .u-countdown-time-box .u-bg {
+    display: flex;
+    text-align: center;
+}
+
+ .u-countdown-time-box .u-days-box {
+    margin-right: 44px;
+    color: #fff;
+}
+ .u-countdown-time-box {
+    display: flex;
+    font-size: 63px;
+    color: rgb(67, 67, 67);
+}
+/*
+下面弃用
+*/
+
+.Ribbon.Ribbon-20180814 {
+    padding-bottom: 15px;
+}
+
+.Ribbon {
+    background: #e0100c;
+}
+.row {
+    position: relative;
+}
+.Ribbon {
+    background: rgba(119,184,254,1.00);
+}
+.row {
+    position: relative;
+}
+.u-six-ciie {
+    padding-top: 20px;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #fff;
+}
+
+.clearfix {
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+.container {
+    height: 100px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+element.style {
+    visibility: visible;
+    animation-name: bounceInRight;
+}
+.ribbon-right {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    top: 2px;
+}
+.ribbon-right {
+    padding: 15px 15px 20px 15px;
+    position: relative;
+    z-index: 1;
+    background: transparent;
+}
+.ribbon-right {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    top: 2px;
+}
+.ribbon-right {
+    padding: 20px 15px 20px 25px;
+    background: url(jbredbg.png) /*tpa=https://www.ciie.org/resource/static/zbh/default/assets-2019/img/jbredbg.png*/ repeat-y;
+    background-size: 100%;
+    position: relative;
+    z-index: 1;
+}
+.ribbon-right {
+    padding: 10px 10px 10px 80px;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    background: url(jbyellowbg.png) /*tpa=https://www.ciie.org/resource/static/zbh/default/assets-2019/img/jbyellowbg.png*/ repeat-y;
+    background-size: 100%;
+    position: relative;
+    top: 12px;
+}
+.ribbon-right {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    top: 2px;
+}
+.ribbon-right {
+    padding: 15px 15px 20px 15px;
+    position: relative;
+    z-index: 1;
+    background: transparent;
+}
+.ribbon-right {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    top: 2px;
+}
+.ribbon-right {
+    padding: 20px 15px 20px 25px;
+    background: url(jbredbg.png) /*tpa=https://www.ciie.org/resource/static/zbh/default/assets-2019/img/jbredbg.png*/ repeat-y;
+    background-size: 100%;
+    position: relative;
+    z-index: 1;
+}
+.ribbon-right {
+    padding: 10px 10px 10px 80px;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    background: url(jbyellowbg.png) /*tpa=https://www.ciie.org/resource/static/zbh/default/assets-2019/img/jbyellowbg.png*/ repeat-y;
+    background-size: 100%;
+    position: relative;
+    top: 12px;
+}
+@media (min-width: 768px) {
+    .col-sm-4 {
+        width: 33.33333333%;
+    }
+}
+@media (min-width: 768px) {
+    .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+        float: left;
+    }
+}
+
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.bounceInRight {
+    -webkit-animation-name: bounceInRight;
+    animation-name: bounceInRight;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ribbon-center {
+    padding: 20px 15px 20px;
+}
+.ribbon-right p, .ribbon-center p {
+    font-size: 17px;
+}
+.text-center {
+    text-align: center !important;
+}
+.ribbon-right p, .ribbon-right div, .ribbon-right b {
+    margin: 0;
+    display: inline-block;
+    color: #fff;
+}
+.ribbon-right div {
+    display: block;
+}
+div{
+    margin: 0;
+}
+.ribbon-right .countdown b {
+    font-size: 44px;
+}
+
+.ribbon-center {
+    padding: 20px 15px 20px;
+}
+.ribbon-center p {
+    line-height: 1.8;
+    color: #fff;
+}
+.ribbon-left.u-kefu-box {
+    text-align: center;
+}
+
+.Ribbon-20180814 .ribbon-left {
+    padding: 10px 30px 10px 60px;
+}
+.ribbon-left div {
+    display: block;
+}
+
+.ribbon-left a, .ribbon-left div {
+    display: inline-block;
+    color: #fff;
+}
