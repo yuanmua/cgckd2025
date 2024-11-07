@@ -1,0 +1,215 @@
+{
+  "local": "贵阳",
+  "time": "2025-01-01T00:00:00",
+  "BackgroundHeader":"images/cgxkd2025.jpg",
+
+  "Home":[
+    {
+      "title": "会议简介",
+      "image": "images/image/introduction.png",
+      "height": " ",
+      "content": "<div class=\"article\">\n    <p>\n    由中国人工智能学会主办，中国人工智能学会粒计算与知识发现专委会协办，国际粗糙集学会支持，贵州大学承办的2025年中国粒计算与知识发现学术会议将于2025年7月17日-20日在“爽爽的贵阳”召开。</p>\n\n    <p>联合会议由三部分组成：CRSSC始于2001年，主要研讨Z. Pawlak教授所提出Rough集理论；CGrC于2007年加入，主要研讨L.A.\n    Zadeh和T.Y.\n    Lin提出的粒计算理论以及张钹院士和张铃教授提出的商空间理论；三支决策学术会议于2012年加入，主要研讨姚一豫教授提出的三支决策理论。</p>\n\n    <!--<p>历届会议均邀请著名学者作主题报告，包括张钹院士（清华大学）、李德毅院士（北京邮电大学）、戴琼海院士（清华大学）、柴天佑院士（东北大学）、赵春江院士（中国工程院）、姚一豫教授（加拿大Regina大学）、Hamido Fujita教授（日本岩手县立大学）、Thierry Denoeux教授（法国贡比涅技术大学）、Ning Zhong教授（日本前桥工业大学）、T.Y. Lin教授（美国San Jose州立大学）、吴信东教授（美国Louisiana大学）、王飞跃教授（中国科学研究院）、周志华教授（南京大学）、黄河燕教授（北京理工大学）、章毅教授（四川大学）、张铃教授（安徽大学）、任福继院士（日本德岛大学）、陈俊龙教授（华南理工大学）、姚静涛教授（加拿大Regina大学）、高新波教授（重庆邮电大学）、陈恩红教授（中国科大）、王震教授（西北工大）、曹飞龙教授（中国计量大学）、朱军教授（清华大学）、苗夺谦教授（同济大学）、梁吉业教授（山西大学）、王国胤教授（重庆邮电大学）等。</p>-->\n    <p>\n    历届会议均邀请著名学者作主题报告，包括张钹院士（清华大学）、李德毅院士（北京邮电大学）、戴琼海院士（清华大学）、柴天佑院士（东北大学）、赵春江院士（中国工程院）、姚一豫教授（加拿大Regina大学）、Hamido\n    Fujita教授（日本岩手县立大学）、Thierry Denoeux教授（法国贡比涅技术大学）、Ning Zhong教授（日本前桥工业大学）、T.Y.\n    Lin教授（美国San\n    Jose州立大学）、吴信东教授（美国Louisiana大学）、姚静涛教授（加拿大Regina大学）等数十位知名学者。</p>\n    </div>"
+    },
+    {
+      "title": "最新消息",
+      "image": "images/image/message.png",
+      "height": "height: 100px",
+      "content": "\n    <div id=\"icmsa\">\n    <div id=\"icmsa1\">\n    <!--<table width=\"90%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" class=\"new_c\">-->\n    <!--<tr>-->\n    <!--<td width=\"4%\"><img src=\"images/image/att-red.png\" height=\"30\" width=\"35\" align=\"center\" alt=\"\" ></td>-->\n    <!--<td width=\"96%\">&nbsp;论文投稿截止日期：2023年3月1日</td>-->\n    <!--</tr>-->\n    <!--</table>-->\n    <p><img src=\"/public/images/image/att-red.png\" height=\"30\" width=\"35\" align=\"center\" alt=\"\">论文投稿截止日期：\n    <span>2025年3月31日</span>\n    </p>\n    </div>\n    </div>\n    "
+    },
+    {
+      "title": "论文投稿",
+      "height": "height: 300px",
+      "image": "images/image/paper.png",
+      "content": "\n    <div class=\"article\"><h5>投稿须知：</h5>\n    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 重要日期</b>\n    <!--<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;论文摘要提交截止日期：暂定；</p>-->\n    <p> 论文投稿截止日期：\n    <span>2025年3月31日</span>\n    </p>\n    <p> 论文推荐期刊拟录用通知日期：2025年5月31日 以前</p>\n    <p><strong>详情请点击</strong><a href=\"/PagerContributions\" target=\"_blank\">论文征稿</a></p>\n    <!--<p>  论文修改与终稿提交日期：2023年5月31日</br></p>-->\n    <p> 会议举办日期：2025年7月17日-20日&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 投稿地址</b>\n    <!--<p ><a href=\"https://easychair.org/conferences/?conf=cgckd2023\" target=\"_blank\">https://easychair.org/conferences/?conf=cgckd2023</a></p>-->\n  <!--<p ><a href=\"https://e-huizhan.com/conference_admin/#/login?model=3&turn=paper&conferenceId=1584726313053319169\" target=\"_blank\">https://e-huizhan.com/conference_admin/#/login?model=3&turn=paper&conferenceId=1584726313053319169</a></p>-->\n  <p>\n    <a href=\"https://ssssss\"\n    target=\"_blank\">还未发布</a>\n    </p>\n    </div>\n\n    "
+    },
+    {
+      "title": "合作期刊",
+      "height": "",
+      "image": "images/image/periodical.png",
+      "content": "\n    <div class=\"article\">\n    <table>\n\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#1\">《International Journal of Machine Learning and\n    Cybernetics》</a></td>\n    <td width=\"300\"><a href=\"journals.html#2\">《International Journal of Bio-inspired\n    Computation》</a></td>\n    <td width=\"300\"><a href=\"journals.html#3\">《CAAI Transactions on Intelligence Technology》</a>\n    </td>\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#4\">《International Journal of Computer Science and\n    Knowledge Engineering》</a></td>\n    <td width=\"300\"><a href=\"journals.html#5\">《Journal of Electronic Science and\n    Technology(JEST)》</a></td>\n    <td width=\"300\"><a href=\"journals.html#6\">《计算机研究与发展》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#7\">《模式识别与人工智能》</a></td>\n    <td width=\"300\"><a href=\"journals.html#8\">《计算机科学》</a></td>\n    <td width=\"300\"><a href=\"journals.html#9\">《计算机科学与探索》</a></td>\n\n    </tr>\n\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#10\">《小型微型计算机系统》</a></td>\n    <td width=\"300\"><a href=\"journals.html#11\">《智能系统学报》</a></td>\n    <td width=\"300\"><a href=\"journals.html#12\">《模糊系统与数学》</a></td>\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#13\">《计算机应用》</a></td>\n    <td width=\"300\"><a href=\"journals.html#14\">《计算机工程与应用》</a></td>\n    <td width=\"300\"><a href=\"journals.html#15\">《数据采集与处理》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#16\">《南京大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#17\">《山东大学学报（理学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#18\">《郑州大学学报（理学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#19\">《重庆邮电大学（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#20\">《山西大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#21\">《西南大学学报（自然科学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#22\">《西北大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#23\">《河北师范大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#24\">《南京理工大学学报（自然科学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#25\">《昆明理工大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#26\">《江苏科技大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#27\">《重庆理工大学学报 (自然科学版)》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#28\">《人工智能科学与工程》</a></td>\n    <td width=\"300\"><a href=\"journals.html#29\">《闽南师范大学学报》</a></td>\n    <td width=\"300\"><a href=\"journals.html#30\">《数码设计》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#31\">《厦门理工学院学报》</a></td>\n\n    </tr>\n    </table>\n\n    </div>\n\n    "
+    },
+    {
+      "title": "会议动态",
+      "height": "height: 300px",
+      "image": "images/image/paper.png",
+      "content": "       <div class=\"article\">\n            <p><b>1.审稿会议：</b>中国粒计算与知识发现学术会议(CGCKD 2025)稿件推荐会于2023年5月12号在贵州省。</p>\n                <!--<p><img src=\"images/index/sce1.jpg\"></p>-->\n                <p><b>2.论文推荐通知：</b>论文推荐通知于2xxxx日发送至通讯作者邮箱。</p>\n                <p><b>3.会议注册：</b>20xxxx日开始会议注册。</p> </div>\n\n  "
+    },
+    {
+      "title": "会议动态",
+      "height": "",
+      "image": "images/image/email.png",
+      "content": ""
+    }
+
+  ],
+  "scenery": [
+    {
+      "title": "贵阳美景",
+      "icon": "images/image/list.png",
+      "iconStyle": "height: 30px; margin-bottom: -7px",
+      "spots": [
+        {
+          "name": "甲秀楼",
+          "description": "位于贵阳市南明区，甲秀楼始建于明朝，是贵阳的标志性建筑之一。楼阁凌空而立，楼前流水潺潺，周围古树参天，环境优美，是贵阳重要的历史文化遗产。",
+          "image": "images/index/jiashou.jpg"
+        },
+        {
+          "name": "黔灵山公园",
+          "description": "位于贵阳市云岩区，黔灵山公园是贵阳著名的自然风景区，这里有丰富的植被和多样的野生动物，是市民和游客登高望远、休闲散步的理想去处。",
+          "image": "images/index/qianling.jpg"
+        }
+      ]
+    },
+    {
+      "title": "花溪美景",
+      "icon": "images/image/list.png",
+      "iconStyle": "height: 25px; margin-bottom: -4px",
+      "spots": [
+        {
+          "name": "青岩古镇",
+          "description": "青岩古镇是国家级历史文化名镇，位于贵阳市花溪区。古镇保存了大量明清时期的建筑，街巷狭窄曲折，青石板路纵横交错，带你穿越时光，感受古老的文化氛围。",
+          "image": "images/index/qingyan.jpg"
+        },
+        {
+          "name": "天河潭风景区",
+          "description": "位于贵阳市花溪区的天河潭风景区以其独特的喀斯特地貌和丰富的水系景观而著称。这里可以体验到溶洞探险、湖面泛舟等丰富的户外活动。",
+          "image": "images/index/tianhetan.jpg"
+        },
+        {
+          "name": "花溪湿地公园",
+          "description": "花溪湿地公园是贵阳最大的湿地公园，位于花溪区，园内水网密布，湿地植被丰富，是珍稀鸟类栖息的乐园，也是人们亲近自然、放松心情的好地方。",
+          "image": "images/index/shidi.jpg"
+        }
+      ]
+    }
+  ],
+  "organization": [
+    {
+      "title": "单位",
+      "unit": [
+        {
+          "organizers": {
+            "name": "中国人工智能学会",
+            "title": "会议主办单位",
+            "logo": "../../../public/images/image/caai_logo.png",
+            "link": "http://caai.cn/"
+          }
+        },
+        {
+          "supporters": {
+            "name": "国际粗糙集学会",
+            "title": "会议支持单位：",
+            "logo": "../../../public/images/image/irss_logo.png",
+            "link": "https://www.roughsets.org/"
+          }
+        },
+        {
+          "hosts": {
+            "name": "贵州大学",
+            "title": "会议承办单位：：",
+            "logo": "../../../public/images/image/xmut.jpeg",
+            "link": "https://www.xmut.edu.cn/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "人物",
+      "categories": [
+        {
+          "title": "名誉主席",
+          "people": [
+            "张钹（清华大学）",
+            "王国胤（重庆邮电大学）",
+            "梁吉业（山西大学）",
+            "梁吉业（山西大学）"
+
+          ]
+        },
+        {
+          "title": "会议主席",
+          "people": [
+            "苗夺谦（同济大学）",
+            "吴伟志（浙江海洋大学）",
+            "胡清华（天津大学）",
+            "吴克寿（厦门理工学院）"
+          ]
+        },
+        {
+          "title": "程序委员会主席",
+          "people": [
+            "高阳（南京大学）",
+            "李天瑞（西南交通大学）",
+            "张清华（重庆邮电大学）",
+            "朱顺痣（厦门理工学院）"
+          ]
+        }
+      ]
+    }
+  ],
+  "PagerContributions":[
+    {
+      "title": "重要节点日期",
+      "image": "images/image/introduction.png",
+      "height": " ",
+      "content": "            <table>\n\n                <tr>\n                    <td class=\"bold\" width=\"300\">论文投稿截止日期</td>\n                    <td  width=\"300\">2023 年 4 月 10 日</td>\n                </tr>\n\n                <tr>\n                    <td class=\"bold\" width=\"300\">论文推荐期刊拟录用通知</td>\n                    <td  width=\"300\">2023 年 5 月 31 日 以前</td>\n                </tr>\n                <!--<tr>-->\n                <!--<td class=\"bold\" width=\"300\">论文修改与终稿提交日期</td>-->\n                <!--<td  width=\"300\">2023 年 5 月 31 日</td>-->\n                <!--</tr>-->\n\n                <tr>\n                    <td class=\"bold\" width=\"300\">会议举办日期</td>\n                    <td  width=\"300\">2023 年 7月 17 日 - 20 日</td>\n                </tr>\n            </table>\n"
+    },
+    {
+      "title": "投稿须知",
+      "image": "images/image/introduction.png",
+      "height": " ",
+      "content": "            <div class=\"format\">\n\n                 <!--<p> 1.会议采用网上征稿方式，投稿地址:<a href=\"https://easychair.org/conferences/?conf=cgckd2023\" target=\"_blank\">https://easychair.org/conferences/?conf=cgckd2023</a></p>-->\n                <!--                            <font color=\"red\">已经截止收稿！</font></p>-->\n                <p> 1.会议采用网上征稿方式，投稿地址:<a href=\"https://e-huizhan.com/conference_paper/#/login?model=12&turn=paper&conferenceId=1601144277369470978\" target=\"_blank\">https://e-huizhan.com/conference_paper/#/login?model=12&turn=paper&conferenceId=1601144277369470978</a></p>\n                <p> 2.会议接收中英文论文。中文稿件请按照《计算机研究与发展》:<a href=\"https://crad.ict.ac.cn/news_list.htm?column=ziliaoxiazai\">https://crad.ict.ac.cn/news_list.htm?column=ziliaoxiazai</a>模版排版，英文稿件请按照 IEEE 常规格式排版，原则上不超过 8000 字。会议将履行严格的审稿程序，遵循宁缺毋滥的原则，杜绝抄袭、数据不实、一稿多投等学术不端行为。</p>\n                <p> 3.投稿内容应突出作者的创新与成果，具有较重要的学术价值与应用推广价值， 且未在公开发行的刊物上发表或会议上宣读。请在稿件最后附上通讯作者姓名、 性别、职务/职称、所属单位、通信地址、邮政编码、联系电话和 E-mail 地址。</p>\n                <p> 4.根据论文评审情况，所有录用论文将根据论文质量推荐到以下期刊：</p>\n                <p>《International Journal of Machine Learning and Cybernetics》</p>\n                <p>《International Journal of Bio-inspired Computation》</p>\n                <p>《CAAI Transactions on Intelligence Technology》</p>\n                <p>《International Journal of Computer Science and Knowledge Engineering》</p>\n                <p>《Journal of Electronic Science and Technology(JEST)》</p>\n                <p>《计算机研究与发展》</p>\n                <p>《模式识别与人工智能》</p>\n                <p>《计算机科学》</p>\n                <p>《计算机科学与探索》</p>\n                <p>《小型微型计算机系统》</p>\n                <p>《智能系统学报》</p>\n                <p>《模糊系统与数学》</p>\n                <p>《计算机应用》</p>\n                <p>《计算机工程与应用》</p>\n                <p>《数据采集与处理》</p>\n                <p>《南京大学学报（自然科学版）》</p>\n                <p>《山东大学学报（理学版）》</p>\n                <p>《郑州大学学报（理学版）》</p>\n                <!--<p>1《郑州大学学报（工学版）》</p>-->\n                <p>《重庆邮电大学学报（自然科学版）》</p>\n                <p>《山西大学学报（自然科学版）》</p>\n                <p>《西南大学学报（自然科学版）》</p>\n                <p>《西北大学学报（自然科学版）》</p>\n                <p>《河北师范大学学报（自然科学版）》</p>\n                <p>《南京理工大学学报（自然科学版）》</p>\n                <p>《昆明理工大学学报（自然科学版）》</p>\n                <p>《江苏科技大学学报（自然科学版）》</p>\n                <!--<p>《集美大学学报（自然科学版）》</p>-->\n                <p>《重庆理工大学学报 (自然科学版)》</p>\n                <p>《人工智能科学与工程》</p>\n                <p>《闽南师范大学学报》</p>\n                <p>《数码设计》</p>\n                <p>《厦门理工学院学报》</p>\n                <p> 在各期刊发表前，作者须按照审稿意见和期刊要求修改论文。每篇录用论文至少有一名作者注册参会。</p>\n                <p>5.<strong>投稿时，请作者在论文首页左上角注明“希望本论文被大会推荐至×××期刊”，每篇论文可以选择2-3个期望被推荐的期刊。如果希望推荐到英文期刊，请用英文撰写。期刊列表详情请见</strong><a href=\"index.html#qk\"target=\"_blank\">合作期刊。</a></p>\n                <p>6. 会议将评选优秀学生论文若干。候选的优秀学生论文第一作者必须是在校的学生，且必须由学生到会宣讲。如希望参评，投稿时请注明第一作者是学生。</p>\n                <p>&nbsp; </p>\n            </div>\n"
+    }
+
+
+  ],
+  "report":[
+    {
+      "title": "相关报告",
+      "image": "images/image/email.png",
+      "height": " ",
+      "content": "                <!--<p><b>会议通知：</b><a title=\"CGCKD2023会议通知.pdf\" download href=\"images/register/CGCKD2023会议通知.pdf\">CGCKD2023会议通知.pdf（点击进行下载）</a></p>-->\n                <p><b>1.讲习班报告：</b><a title=\"讲习班内容.pdf\" download href=\"../../../public/images/register/jiangxibanneirong.pdf\">讲习班内容.pdf（点击进行下载）</a></p>\n                <p><b>2.青年学者论坛: </b><a title=\"青年学者论坛.jpg\" download href=\"../../../public/images/register/jxb4.jpg\">青年学者论坛.jpg（点击进行下载）</a></p>\n                <p><b>3.特邀论文报告: </b><a title=\"特邀论文报告.jpg\" download href=\"../../../public/images/register/jxb3.jpg\">特邀论文报告.jpg（点击进行下载）</a></p>\n\n"
+    },
+    {
+      "title": "讲习班",
+      "image": "/images/image/list.png",
+      "height": " ",
+      "content": "1111"
+    }
+
+
+  ],
+  "agenda":[
+    {
+      "title": "会议日程",
+      "image": "images/image/email.png",
+      "height": " ",
+      "content": ""
+    }
+
+
+  ],
+  "registerM":[
+    {
+      "title": "会议注册",
+      "image": "images/image/introduction.png",
+      "height": " ",
+      "content": "        <p><b>会议通知：</b><a title=\"CGCKD2023会议通知.pdf\" download href=\"../../../public/images/register/CGCKD2023huiyitongzhi.pdf\">CGCKD2023会议通知.pdf（点击进行下载）</a></p>\n                <p><b>打开微信扫描二维码进行会议人员注册:</b></p>\n                <table  border=\"0\" align=\"center\" style=\"margin: 47px auto\">\n\n                    <tr>\n                        <td height=\"20\" align=\"right\" valign=\"middle\">&nbsp;</td>\n                        <td height=\"20\" align=\"left\" valign=\"middle\"><span class=\"large\"></span></td>\n                    </tr>\n\n                    <tr>\n                    <td align=\"right\" valign=\"middle\">&nbsp;</td>\n                    <td height=\"20\" colspan=\"2\" align=\"left\" valign=\"middle\">&nbsp;</td>\n                    </tr>\n                </table>"
+    }
+
+
+  ],
+  "ContactMe":[
+    {
+      "title": "联系我们",
+      "image": "images/image/email.png",
+      "height": " ",
+      "content": "                <div class=\"connect\"><!-- <b>邮箱：&nbsp;&nbsp;&nbsp;cgckd2023@163.com</b><br>-->\n                    <p class=\"title\"><b>联系人及联系电话：</b></p>\n<!--                    <p>-->\n<!--                        <span>陈&nbsp;玉&nbsp;明【会务咨询】</span>-->\n<!--                        <span>&nbsp;13799762651 </span>-->\n<!--                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cgckd2023@163.com</span>-->\n<!--                    </p>-->\n<!--                    <p>-->\n<!--                        <span>李&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伟【会务咨询】</span>-->\n<!--                        <span>&nbsp;15060779313</span>-->\n<!--                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cgckd2023@163.com</span>-->\n<!--                    </p>-->\n<!--                    <p>-->\n<!--                        <span>通讯地址：</span>-->\n<!--                        <span>福建省厦门市集美区理工路600号厦门理工学院计算机与信息工程学院</span>-->\n<!--                    </p>-->\n<!--                    <p>-->\n<!--                        <span>邮编：</span>-->\n<!--                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;361024</span>-->\n<!--                    </p>-->\n                </div>\n"
+    }
+
+
+  ]
+
+
+
+}
