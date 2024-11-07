@@ -29,8 +29,6 @@ const updateCountdown = () => {
     minutes.value = 0;
     seconds.value = 0;
   }
-    console.log(days.value)
-    console.log(daysDigits.value)
 
 };
 const daysDigits = computed(() => String(days.value).padStart(3, '0').split(''));
@@ -49,6 +47,17 @@ onUnmounted(() => {
   clearInterval(intervalId);
 });
 
+// defineProps({
+//   sections: Array,
+// })
+const scrollToSection = (title) => {
+  console.log(title)//必须要有这个函数不然有问题
+  // const target = this.$refs[title];
+  // if (target && target[0]) {
+  //   target[0].scrollIntoView({ behavior: 'smooth', block: 'start' });
+  // }
+}
+
 
 </script>
 <template>
@@ -59,7 +68,12 @@ onUnmounted(() => {
         <el-affix class="sidebar-affix" :offset="300">
         <div class="sidebar-left">
           <el-anchor :offset="70" style="margin: 15px 10px 15px 0;">
-            <el-anchor-link v-for="section in sections" :href="'#'+section.title" style="margin: 10px;">
+            <el-anchor-link
+                v-for="section in sections"
+                @click.prevent="scrollToSection(section.title)"
+                :href="'#'+section.title"
+
+                style="margin: 10px;">
               <div style="font-size: large">
                 {{ section.title }}
               </div>
@@ -111,49 +125,6 @@ onUnmounted(() => {
                 <p class="u-unit">秒</p>
               </div>
             </div>
-          </div>
-
-          <div class="colTy col">
-
-<!--
-            <div class="row Ribbon Ribbon-20180814">
-              <div class="u-six-ciie">
-                <p>中国人工智能学会</p>
-                <p class="p1">2025年1月1-10日</p>
-              </div>
-              <div class="container clearfix">
-                <div class="ribbon-right col-sm-4 col-xs-12 wow bounceInRight" style="visibility: visible; animation-name: bounceInRight;">
-                  <p class="text-center">距第2025中国人工智能学会</p>
-                  <div id="countdown" class="countdown text-center">
-                    <b id="day">99</b><small>天</small>
-                    &lt;!&ndash; <b id="hours"></b><small>小时</small> &ndash;&gt;
-                  </div>
-                </div>
-                <div class="ribbon-center col-sm-4 col-xs-12 wow bounceIn" style="visibility: visible; animation-name: bounceIn;">
-                  <p class="text-center">第n届中国人工智能学会<br>注册报名</p>
-                  <div class="text-center">
-                    <a href="/zbh/cn/19zc/">
-                      &lt;!&ndash;              <img src="/resource/static/zbh/default/assets-2019/img/zhc.png">&ndash;&gt;
-                    </a>
-                  </div>
-                </div>
-                <div class="ribbon-left col-sm-4 col-xs-12 wow bounceInLeft u-kefu-box" style="visibility: visible; animation-name: bounceInLeft;">
-                  <div>
-                    <h4>服务热线</h4>
-                    <h2 class="text-center">+86-</h2>
-                  </div>
-                  &lt;!&ndash;<a href="https://968888.ciie.org/static/page/imWork.html" title="24小时在线客服" target="_blank">
-                      <i class="iconfont icon-kefu"></i>
-                      <span>24小时<br>在线客服</span>
-                  </a>&ndash;&gt;
-                  <a class="u-kefu" href="https://968888.ciie.org/ciie/im/text/pczhongwen.html?comeType=pcurl&amp;orgi=809607146d5841839117cdd2c3c450ab" target="_blank" title="关注中国国际进口博览会参会服务">
-                    &lt;!&ndash;            <img src="/resource/static/zbh/default/assets-2019/img/Topic/kefu.jpg" alt="">&ndash;&gt;
-                  </a>
-                </div>
-              </div>
-            </div>
--->
-
           </div>
 
           <div class="colTy col" v-for="section in sections">

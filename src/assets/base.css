@@ -1,6 +1,6 @@
 body{
     /*设置底部背景图*/
-    background:rgba(119,184,254,1.00) url(./img/1.jpg) bottom center;
+    background:rgba(119,184,254,1.00) url(../../public/img/1.jpg) bottom center;
     background-attachment:fixed;
     background-repeat:no-repeat;
     width:100%;

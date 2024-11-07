@@ -4,44 +4,44 @@
   "BackgroundHeader":"images/cgxkd2025.jpg",
 
   "Home":[
-  {
-    "title": "会议简介",
-    "image": "images/image/introduction.png",
-    "height": " ",
-    "content": "<div class=\"article\">\n    <p>\n    由中国人工智能学会主办，中国人工智能学会粒计算与知识发现专委会协办，国际粗糙集学会支持，贵州大学承办的2025年中国粒计算与知识发现学术会议将于2025年7月17日-20日在“爽爽的贵阳”召开。</p>\n\n    <p>联合会议由三部分组成：CRSSC始于2001年，主要研讨Z. Pawlak教授所提出Rough集理论；CGrC于2007年加入，主要研讨L.A.\n    Zadeh和T.Y.\n    Lin提出的粒计算理论以及张钹院士和张铃教授提出的商空间理论；三支决策学术会议于2012年加入，主要研讨姚一豫教授提出的三支决策理论。</p>\n\n    <!--<p>历届会议均邀请著名学者作主题报告，包括张钹院士（清华大学）、李德毅院士（北京邮电大学）、戴琼海院士（清华大学）、柴天佑院士（东北大学）、赵春江院士（中国工程院）、姚一豫教授（加拿大Regina大学）、Hamido Fujita教授（日本岩手县立大学）、Thierry Denoeux教授（法国贡比涅技术大学）、Ning Zhong教授（日本前桥工业大学）、T.Y. Lin教授（美国San Jose州立大学）、吴信东教授（美国Louisiana大学）、王飞跃教授（中国科学研究院）、周志华教授（南京大学）、黄河燕教授（北京理工大学）、章毅教授（四川大学）、张铃教授（安徽大学）、任福继院士（日本德岛大学）、陈俊龙教授（华南理工大学）、姚静涛教授（加拿大Regina大学）、高新波教授（重庆邮电大学）、陈恩红教授（中国科大）、王震教授（西北工大）、曹飞龙教授（中国计量大学）、朱军教授（清华大学）、苗夺谦教授（同济大学）、梁吉业教授（山西大学）、王国胤教授（重庆邮电大学）等。</p>-->\n    <p>\n    历届会议均邀请著名学者作主题报告，包括张钹院士（清华大学）、李德毅院士（北京邮电大学）、戴琼海院士（清华大学）、柴天佑院士（东北大学）、赵春江院士（中国工程院）、姚一豫教授（加拿大Regina大学）、Hamido\n    Fujita教授（日本岩手县立大学）、Thierry Denoeux教授（法国贡比涅技术大学）、Ning Zhong教授（日本前桥工业大学）、T.Y.\n    Lin教授（美国San\n    Jose州立大学）、吴信东教授（美国Louisiana大学）、姚静涛教授（加拿大Regina大学）等数十位知名学者。</p>\n    </div>"
-  },
-  {
-    "title": "最新消息",
-    "image": "images/image/message.png",
-    "height": "height: 100px",
-    "content": "\n    <div id=\"icmsa\">\n    <div id=\"icmsa1\">\n    <!--<table width=\"90%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" class=\"new_c\">-->\n    <!--<tr>-->\n    <!--<td width=\"4%\"><img src=\"images/image/att-red.png\" height=\"30\" width=\"35\" align=\"center\" alt=\"\" ></td>-->\n    <!--<td width=\"96%\">&nbsp;论文投稿截止日期：2023年3月1日</td>-->\n    <!--</tr>-->\n    <!--</table>-->\n    <p><img src=\"/public/images/image/att-red.png\" height=\"30\" width=\"35\" align=\"center\" alt=\"\">论文投稿截止日期：\n    <span>2025年3月31日</span>\n    </p>\n    </div>\n    </div>\n    "
-  },
-  {
-    "title": "论文投稿",
-    "height": "height: 300px",
-    "image": "images/image/paper.png",
-    "content": "\n    <div class=\"article\"><h5>投稿须知：</h5>\n    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 重要日期</b>\n    <!--<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;论文摘要提交截止日期：暂定；</p>-->\n    <p> 论文投稿截止日期：\n    <span>2025年3月31日</span>\n    </p>\n    <p> 论文推荐期刊拟录用通知日期：2025年5月31日 以前</p>\n    <p><strong>详情请点击</strong><a href=\"/PagerContributions\" target=\"_blank\">论文征稿</a></p>\n    <!--<p>  论文修改与终稿提交日期：2023年5月31日</br></p>-->\n    <p> 会议举办日期：2025年7月17日-20日&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 投稿地址</b>\n    <!--<p ><a href=\"https://easychair.org/conferences/?conf=cgckd2023\" target=\"_blank\">https://easychair.org/conferences/?conf=cgckd2023</a></p>-->\n  <!--<p ><a href=\"https://e-huizhan.com/conference_admin/#/login?model=3&turn=paper&conferenceId=1584726313053319169\" target=\"_blank\">https://e-huizhan.com/conference_admin/#/login?model=3&turn=paper&conferenceId=1584726313053319169</a></p>-->\n  <p>\n    <a href=\"https://ssssss\"\n    target=\"_blank\">还未发布</a>\n    </p>\n    </div>\n\n    "
-  },
-  {
-    "title": "合作期刊",
-    "height": "",
-    "image": "images/image/periodical.png",
-    "content": "\n    <div class=\"article\">\n    <table>\n\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#1\">《International Journal of Machine Learning and\n    Cybernetics》</a></td>\n    <td width=\"300\"><a href=\"journals.html#2\">《International Journal of Bio-inspired\n    Computation》</a></td>\n    <td width=\"300\"><a href=\"journals.html#3\">《CAAI Transactions on Intelligence Technology》</a>\n    </td>\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#4\">《International Journal of Computer Science and\n    Knowledge Engineering》</a></td>\n    <td width=\"300\"><a href=\"journals.html#5\">《Journal of Electronic Science and\n    Technology(JEST)》</a></td>\n    <td width=\"300\"><a href=\"journals.html#6\">《计算机研究与发展》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#7\">《模式识别与人工智能》</a></td>\n    <td width=\"300\"><a href=\"journals.html#8\">《计算机科学》</a></td>\n    <td width=\"300\"><a href=\"journals.html#9\">《计算机科学与探索》</a></td>\n\n    </tr>\n\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#10\">《小型微型计算机系统》</a></td>\n    <td width=\"300\"><a href=\"journals.html#11\">《智能系统学报》</a></td>\n    <td width=\"300\"><a href=\"journals.html#12\">《模糊系统与数学》</a></td>\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#13\">《计算机应用》</a></td>\n    <td width=\"300\"><a href=\"journals.html#14\">《计算机工程与应用》</a></td>\n    <td width=\"300\"><a href=\"journals.html#15\">《数据采集与处理》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#16\">《南京大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#17\">《山东大学学报（理学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#18\">《郑州大学学报（理学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#19\">《重庆邮电大学（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#20\">《山西大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#21\">《西南大学学报（自然科学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#22\">《西北大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#23\">《河北师范大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#24\">《南京理工大学学报（自然科学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#25\">《昆明理工大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#26\">《江苏科技大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#27\">《重庆理工大学学报 (自然科学版)》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#28\">《人工智能科学与工程》</a></td>\n    <td width=\"300\"><a href=\"journals.html#29\">《闽南师范大学学报》</a></td>\n    <td width=\"300\"><a href=\"journals.html#30\">《数码设计》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#31\">《厦门理工学院学报》</a></td>\n\n    </tr>\n    </table>\n\n    </div>\n\n    "
-  },
-  {
-    "title": "会议动态",
-    "height": "height: 300px",
-    "image": "images/image/paper.png",
-    "content": "       <div class=\"article\">\n            <p><b>1.审稿会议：</b>中国粒计算与知识发现学术会议(CGCKD 2025)稿件推荐会于2023年5月12号在贵州省。</p>\n                <!--<p><img src=\"images/index/sce1.jpg\"></p>-->\n                <p><b>2.论文推荐通知：</b>论文推荐通知于2xxxx日发送至通讯作者邮箱。</p>\n                <p><b>3.会议注册：</b>20xxxx日开始会议注册。</p> </div>\n\n  "
-  },
-  {
-    "title": "会议动态",
-    "height": "",
-    "image": "images/image/email.png",
-    "content": ""
-  }
+    {
+      "title": "会议简介",
+      "image": "images/image/introduction.png",
+      "height": " ",
+      "content": "<div class=\"article\">\n    <p>\n    由中国人工智能学会主办，中国人工智能学会粒计算与知识发现专委会协办，国际粗糙集学会支持，贵州大学承办的2025年中国粒计算与知识发现学术会议将于2025年7月17日-20日在“爽爽的贵阳”召开。</p>\n\n    <p>联合会议由三部分组成：CRSSC始于2001年，主要研讨Z. Pawlak教授所提出Rough集理论；CGrC于2007年加入，主要研讨L.A.\n    Zadeh和T.Y.\n    Lin提出的粒计算理论以及张钹院士和张铃教授提出的商空间理论；三支决策学术会议于2012年加入，主要研讨姚一豫教授提出的三支决策理论。</p>\n\n    <!--<p>历届会议均邀请著名学者作主题报告，包括张钹院士（清华大学）、李德毅院士（北京邮电大学）、戴琼海院士（清华大学）、柴天佑院士（东北大学）、赵春江院士（中国工程院）、姚一豫教授（加拿大Regina大学）、Hamido Fujita教授（日本岩手县立大学）、Thierry Denoeux教授（法国贡比涅技术大学）、Ning Zhong教授（日本前桥工业大学）、T.Y. Lin教授（美国San Jose州立大学）、吴信东教授（美国Louisiana大学）、王飞跃教授（中国科学研究院）、周志华教授（南京大学）、黄河燕教授（北京理工大学）、章毅教授（四川大学）、张铃教授（安徽大学）、任福继院士（日本德岛大学）、陈俊龙教授（华南理工大学）、姚静涛教授（加拿大Regina大学）、高新波教授（重庆邮电大学）、陈恩红教授（中国科大）、王震教授（西北工大）、曹飞龙教授（中国计量大学）、朱军教授（清华大学）、苗夺谦教授（同济大学）、梁吉业教授（山西大学）、王国胤教授（重庆邮电大学）等。</p>-->\n    <p>\n    历届会议均邀请著名学者作主题报告，包括张钹院士（清华大学）、李德毅院士（北京邮电大学）、戴琼海院士（清华大学）、柴天佑院士（东北大学）、赵春江院士（中国工程院）、姚一豫教授（加拿大Regina大学）、Hamido\n    Fujita教授（日本岩手县立大学）、Thierry Denoeux教授（法国贡比涅技术大学）、Ning Zhong教授（日本前桥工业大学）、T.Y.\n    Lin教授（美国San\n    Jose州立大学）、吴信东教授（美国Louisiana大学）、姚静涛教授（加拿大Regina大学）等数十位知名学者。</p>\n    </div>"
+    },
+    {
+      "title": "最新消息",
+      "image": "images/image/message.png",
+      "height": "height: 100px",
+      "content": "\n    <div id=\"icmsa\">\n    <div id=\"icmsa1\">\n    <!--<table width=\"90%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" class=\"new_c\">-->\n    <!--<tr>-->\n    <!--<td width=\"4%\"><img src=\"images/image/att-red.png\" height=\"30\" width=\"35\" align=\"center\" alt=\"\" ></td>-->\n    <!--<td width=\"96%\">&nbsp;论文投稿截止日期：2023年3月1日</td>-->\n    <!--</tr>-->\n    <!--</table>-->\n    <p><img src=\"/public/images/image/att-red.png\" height=\"30\" width=\"35\" align=\"center\" alt=\"\">论文投稿截止日期：\n    <span>2025年3月31日</span>\n    </p>\n    </div>\n    </div>\n    "
+    },
+    {
+      "title": "论文投稿",
+      "height": "height: 300px",
+      "image": "images/image/paper.png",
+      "content": "\n    <div class=\"article\"><h5>投稿须知：</h5>\n    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 重要日期</b>\n    <!--<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;论文摘要提交截止日期：暂定；</p>-->\n    <p> 论文投稿截止日期：\n    <span>2025年3月31日</span>\n    </p>\n    <p> 论文推荐期刊拟录用通知日期：2025年5月31日 以前</p>\n    <p><strong>详情请点击</strong><a href=\"/PagerContributions\" target=\"_blank\">论文征稿</a></p>\n    <!--<p>  论文修改与终稿提交日期：2023年5月31日</br></p>-->\n    <p> 会议举办日期：2025年7月17日-20日&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 投稿地址</b>\n    <!--<p ><a href=\"https://easychair.org/conferences/?conf=cgckd2023\" target=\"_blank\">https://easychair.org/conferences/?conf=cgckd2023</a></p>-->\n  <!--<p ><a href=\"https://e-huizhan.com/conference_admin/#/login?model=3&turn=paper&conferenceId=1584726313053319169\" target=\"_blank\">https://e-huizhan.com/conference_admin/#/login?model=3&turn=paper&conferenceId=1584726313053319169</a></p>-->\n  <p>\n    <a href=\"https://ssssss\"\n    target=\"_blank\">还未发布</a>\n    </p>\n    </div>\n\n    "
+    },
+    {
+      "title": "合作期刊",
+      "height": "",
+      "image": "images/image/periodical.png",
+      "content": "\n    <div class=\"article\">\n    <table>\n\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#1\">《International Journal of Machine Learning and\n    Cybernetics》</a></td>\n    <td width=\"300\"><a href=\"journals.html#2\">《International Journal of Bio-inspired\n    Computation》</a></td>\n    <td width=\"300\"><a href=\"journals.html#3\">《CAAI Transactions on Intelligence Technology》</a>\n    </td>\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#4\">《International Journal of Computer Science and\n    Knowledge Engineering》</a></td>\n    <td width=\"300\"><a href=\"journals.html#5\">《Journal of Electronic Science and\n    Technology(JEST)》</a></td>\n    <td width=\"300\"><a href=\"journals.html#6\">《计算机研究与发展》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#7\">《模式识别与人工智能》</a></td>\n    <td width=\"300\"><a href=\"journals.html#8\">《计算机科学》</a></td>\n    <td width=\"300\"><a href=\"journals.html#9\">《计算机科学与探索》</a></td>\n\n    </tr>\n\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#10\">《小型微型计算机系统》</a></td>\n    <td width=\"300\"><a href=\"journals.html#11\">《智能系统学报》</a></td>\n    <td width=\"300\"><a href=\"journals.html#12\">《模糊系统与数学》</a></td>\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#13\">《计算机应用》</a></td>\n    <td width=\"300\"><a href=\"journals.html#14\">《计算机工程与应用》</a></td>\n    <td width=\"300\"><a href=\"journals.html#15\">《数据采集与处理》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#16\">《南京大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#17\">《山东大学学报（理学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#18\">《郑州大学学报（理学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#19\">《重庆邮电大学（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#20\">《山西大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#21\">《西南大学学报（自然科学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#22\">《西北大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#23\">《河北师范大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#24\">《南京理工大学学报（自然科学版）》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#25\">《昆明理工大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#26\">《江苏科技大学学报（自然科学版）》</a></td>\n    <td width=\"300\"><a href=\"journals.html#27\">《重庆理工大学学报 (自然科学版)》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#28\">《人工智能科学与工程》</a></td>\n    <td width=\"300\"><a href=\"journals.html#29\">《闽南师范大学学报》</a></td>\n    <td width=\"300\"><a href=\"journals.html#30\">《数码设计》</a></td>\n\n    </tr>\n    <tr>\n    <td width=\"300\"><a href=\"journals.html#31\">《厦门理工学院学报》</a></td>\n\n    </tr>\n    </table>\n\n    </div>\n\n    "
+    },
+    {
+      "title": "会议动态",
+      "height": "height: 300px",
+      "image": "images/image/paper.png",
+      "content": "       <div class=\"article\">\n            <p><b>1.审稿会议：</b>中国粒计算与知识发现学术会议(CGCKD 2025)稿件推荐会于2023年5月12号在贵州省。</p>\n                <!--<p><img src=\"images/index/sce1.jpg\"></p>-->\n                <p><b>2.论文推荐通知：</b>论文推荐通知于2xxxx日发送至通讯作者邮箱。</p>\n                <p><b>3.会议注册：</b>20xxxx日开始会议注册。</p> </div>\n\n  "
+    },
+    {
+      "title": "会议动态",
+      "height": "",
+      "image": "images/image/email.png",
+      "content": ""
+    }
 
-],
+  ],
   "scenery": [
     {
       "title": "贵阳美景",
